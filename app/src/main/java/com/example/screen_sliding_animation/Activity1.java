@@ -40,3 +40,5 @@ public class Activity1 extends AppCompatActivity {
         overridePendingTransition(R.anim.right_to_center,R.anim.center_to_left);
     }
 }
+
+//References: https://youtu.be/dpgUYoy-Ilk
